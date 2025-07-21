@@ -40,3 +40,14 @@ Aplikacja została zbudowana w oparciu o wzorzec MVC (Model-View-Controller) z w
     Modele (coal_purchase.dart, coal_usage.dart) - reprezentują dane
     Widoki (ekrany w folderze screens) - interfejs użytkownika
     Kontrolery (logika w stanach widgetów) - zarządzają przepływem danych
+
+Baza danych SQLite jest używana do trwałego przechowywania wszystkich informacji, z warstwą dostępu do danych w DatabaseHelper.
+
+Wykorzystane technologie:
+    Flutter - główny framework do budowy aplikacji mobilnych na platformy iOS i Android
+    Dart - język programowania używany w Flutterze
+    sqflite - plugin do obsługi bazy danych SQLite na urządzeniach mobilnych
+    HTTP Client - do pobierania danych pogodowych z zewnętrznego API
+    syncfusion_flutter_charts - biblioteka do tworzenia wykresów i wizualizacji danych
+    intl - do formatowania dat, walut i innych danych lokalizacyjnych
+    Material Design - system designu Google zastosowany w interfejsie użytkownika
