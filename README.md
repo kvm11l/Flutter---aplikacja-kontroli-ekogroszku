@@ -6,7 +6,7 @@ Aplikacja to narzędzie do zarządzania zakupami i zużyciem ekogroszku. Oferuj�
 
 1. Zarządzanie zakupami
 Rejestracja nowych zakupów ekogroszku (dostawca, ilość, cena, data), 
-Przegląd historii zakupów z możliwością sortowania, 
+Przegląd historii zakupów z możliwością sortowania,
 Szczegółowe informacje o każdym zakupie. 
 
 2. Śledzenie zapasów
